@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Charles N. Chano
 tagline:          'My portfolio website.'
-description:      '<p> Test/Validation Engineer <br /> Robotics Engineering M.S. <br /> Mechanical Engineering B.S.  </p>'
+description:      '<p> Robotics Engineering M.S. <br /> Mechanical Engineering B.S.  </p>'
 # <br> <a href="www.linkedin.com/in/charles-chano" target="_blank">My LinkedIn</a>
 url:              https://cnchano.github.io
 baseurl:          
