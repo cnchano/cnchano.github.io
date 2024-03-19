@@ -1,7 +1,8 @@
 ---
 layout: page
-title: About
+title: Curriculum Vitae
 sidebar_link: true
+sidebar_sort_order: 1
 ---
 
 <p class="message">
