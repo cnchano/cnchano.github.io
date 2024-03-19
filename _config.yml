@@ -5,7 +5,8 @@ highlighter:      rouge
 # Setup
 title:            Charles N. Chano
 tagline:          'My portfolio website.'
-description:      ''
+description:      '<p> Test/Validation Engineer <br /> Robotics Engineering M.S. <br /> Mechanical Engineering B.S.  </p>'
+# <br> <a href="www.linkedin.com/in/charles-chano" target="_blank">My LinkedIn</a>
 url:              https://cnchano.github.io
 baseurl:          
                   # the optional subpath of your site, e.g. "/blog"
@@ -33,3 +34,7 @@ sidebar_home_link:  true
                                 # page. If you change your paginate_path,
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
+# linkedin_badge: | 
+#   <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+#   <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="charles-chano" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pl.linkedin.com/in/charles-chano?trk=profile-badge">Charles Chano</a></div>
+                              

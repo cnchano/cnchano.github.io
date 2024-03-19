@@ -3,17 +3,88 @@ layout: index
 title: About Me
 ---
 
+
 {%- assign postImage = "/assets/images/avatar-img.jpeg" -%}
-<img src="{{- postImage | relative_url -}}" alt="Avatar Image" class="avatar-img" style="width:200px;border-radius: 25%;">
-<div class="avatar-img"></div> {
+<img src="{{- postImage | relative_url -}}" alt="Avatar Image" class="avatar-img" style="width:200px;border-radius: 25%; border: 2px solid #555; display: block; margin-left: auto; margin-right: auto;">
+<div class="avatar-img"></div>
+<!-- .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+} -->
+
+<!-- {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
-  }
+  } -->
 <!-- <style>
     img {
       border-radius: 25%;
     }
     </style> -->
-Hello, my name is Charles.
+
+
+
+
+
+
+{% assign bachelor_thesis_post = site.posts | where: "title", "Novel PID Controlled Continuosly-Variable-Transmission for the 2017 CPP Baja Vehicle" | first %}
+{% assign conform_auto_post = site.posts | where: "title", "Automation of Bearing In-Process Conformance Test" | first %}
+{% assign master_thesis_post = site.posts | where: "title", "UAV Decentralized Formation Flying For Surveying Missions, Using Behavioral Techniques" | first %}
+
+
+<h2>About Me:</h2>
+<p>Hello, I'm Charles Chano, a proud Mexican-American originally from the greater Los Angeles area, California, USA. Fluent in both Spanish and English, I seamlessly integrate my linguistic versatility into my career.</p>
+<p>I recently graduated with a Master's degree in Robotics Engineering from Warsaw University of Technology, Warsaw, Poland. Having fallen in love with the European lifestyle and diversity, I'm keen on pursuing opportunities within the EU.</p>
+<p>My career journey has equipped me with a robust background in <a href="{{ site.baseurl }}/pages/project-tag-page.html#automotive" target="_blank">automotive</a> powertrain development and quality control for <a href="{{ site.baseurl }}/pages/project-tag-page.html#aerospace" target="_blank">aerospace</a> manufacturing. I've consistently aimed to leverage my interdisciplinary knowledge, blending mechanics with electrical and computer science.</p>
+<p>From my <a href="{{ bachelor_thesis_post.url | relative_url }}" target="_blank">Bachelor's thesis on the 2017 Baja SAE project car's transmission</a> to implementing <a href="{{ conform_auto_post.url | relative_url }}" target="_blank">automation in the inspection process at RBC,</a> 
+  I've honed my skills. Most recently, I applied my learnings from my Master's program, including A.I., mechanical dynamic modeling, and real-time systems, to <a href="{{ master_thesis_post.url | relative_url }}" target="_blank">develop a simulation of decentralized UAV formation for task completion.</a> </p>
+<p>In my professional achievements, I've optimized workflows, enhanced product and system quality, and ensured maintainability. My decision-making process is rooted in data-driven insights and past experiences, enabling me to successfully implement impactful changes.</p>
+<p>I take pride in my commitment to making improvements that benefit everyone involved.</p>
+
+<!-- <h2>About Me:</h2>
+<p>
+  Hello, I'm Charles Chano, born and raised in the greater Los Angeles area (California, USA), where I've garnered the majority of my education and professional experience.
+</p>
+<p> 
+  As a proud Mexican-American, I possess fluency in both Spanish and English, seamlessly integrating this linguistic versatility into my career.
+</p>
+<p>
+  I am now a recent Robotics Engineer M.S. graduate from Warsaw University of Technology (Warsaw, Poland). 
+  I grew to love the lifestyle of Europe, meeting people with all sorts of backgrounds, therefore I look to stay in the EU.
+</p>
+<p>
+  In my career, I have developed a solid background in quality control for aerospace manufacturing and automotive powertrain development. 
+</p>
+<p>
+  I have consistently aimed my career focus to leverage my interdisciplinary knowledge of mechanics with electrical and computer science. 
+  From my bachelors thesis, where I focused on the electrical, programming, and mechanics of the transmission of the 2017 Baja SAE project car, to
+  my professional experience where I implemented automation into the inspection process at RBC. Most recently, I took what I have learned during 
+  my masters program (A.I., Mechanical dynamic modeling, real time systems) and applied it to my thesis, in addition to my prior experience, 
+  where I developed a simulation of decentralized formation of UAV to complete a task. 
+</p>
+<p>
+  In my professional achievements, I have optimized workflows, elevated the overall quality of products and systems, all while ensuring maintainability. 
+  My decision-making process is rooted in data-driven insights and past experiences, 
+  enabling me to successfully implement impactful changes. 
+</p>
+<p>
+  I take pride in my commitment to making improvements that benefit everyone involved.
+</p> -->
+
+<div class="message">
+<h4>Site Navigation:</h4>
+<p>
+  On the left, you can access a pdf of my CV, browse through my projects by category, or search through tags that my projects apply to.
+</p>
+<p>
+  To search through tags, select the "Search Project Tags" page and browse any relevant tags. 
+  Additionally, you can use ctrl_F to search for specific tags of interest.
+  Once you select a tag, relevant projects will appear.
+</p>
+</div>
+<!-- Linkedin badge not working, only displays name -->
+<!-- {{ site.linkedin_badge }} -->
