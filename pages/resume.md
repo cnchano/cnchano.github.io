@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Curriculum Vitae
-sidebar_link: true
+sidebar_link: false
 sidebar_sort_order: 1
 ---
 
