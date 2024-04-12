@@ -20,7 +20,7 @@ last_modified_at: 2024-03-13
 </div>
 
 <p>
-As a test technician, I came into the company in the middle of the Derringer in-line tuner's application development. The company's goal was to make an easy to install in-line tuner for various engine models, by intercepting signals to and from the ECU, resulting in a greater power output capacity by the engine. After ensuring that the tuner integrates with an engine model, functionality is tested with each vehicle model.
+I came into the company in the middle of the Derringer in-line tuner's application development. The company's goal was to make an easy to install in-line tuner for various engine models, by intercepting signals to and from the ECU, resulting in a greater power output capacity by the engine. After ensuring that the tuner integrates with an engine model, functionality is tested with each vehicle model.
 </p>
 <p>
 After recieving a new vehicle, I created a prototype wiring harness routing from the ideal location for the Derringer Tuner to the FRP and MAP/TMAP sensors. At this point, any issues in the installation were troubleshot with the guidance of the developers of the Derringer Tuner software.
