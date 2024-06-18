@@ -82,4 +82,4 @@ last_modified_at: 2024-03-12
 
 <h3>Results</h3>
 <p> Initial implementation required much training for the inspectors to become accustomed to the VMM, in addition to the new inspection process.</p>
-<p> The automation proved itself reliable in test results, but was limited in speed by the lack of computer knowledge of inspectors, as well as the limited functionality provided by the VMM.</p>
+<p> The automation proved itself reliable in test results, and once inspectors were able to get comfortable with the new process, false positive rejections were drastically reduced.</p>
