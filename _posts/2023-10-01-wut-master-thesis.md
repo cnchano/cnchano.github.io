@@ -18,6 +18,15 @@ tags:
   - Photogrammetry
 last_modified_at: 2024-03-12
 ---
+<div class="message">
+    <p>
+        <a href="https://github.com/cnchano/swarm_ws" target="_blank">Checkout my github repo of my ROS2 workspace.</a>
+    </p>
+    <p>   
+        <a href="https://github.com/cnchano/swarm_ws/tree/main/src/drone_control/drone_control" target="_blank">Checkout my github repo of my UAV controller scripts written in Python.</a>
+    </p>
+</div>
+
 <h3>Summary:</h3>
 <p>
 This thesis explores the application of multi-agent cooperation in the context of Unmanned
