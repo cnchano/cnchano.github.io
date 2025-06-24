@@ -53,7 +53,7 @@ response, focusing on decentralized formation flying and survey missions. The st
 discusses limitations, capabilities, and potential future enhancements.
 </p>
 
-<iframe src="https://1drv.ms/p/c/8706b55282a10f7f/UQR_D6GCUrUGIICHSQ0AAAAAALWlaZwmff2xkEs?em=2&amp;wdAr=1.7777777777777777" width="100%" height="367px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+<iframe src="https://1drv.ms/p/c/8706b55282a10f7f/IQTtlIavYyanQ6RCmcSaFDCpAQ7uizhvpmfHPfZVE4Hf3no?em=2&amp;wdAr=1.7777777777777777" width="100%" height="367px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 <div class="message">
     <font size="-1">*Open powerpoint in new window for better viewing with the transcript notes.</font>
 </div>
