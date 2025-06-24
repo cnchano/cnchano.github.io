@@ -34,5 +34,5 @@ During testing of the driving pulley with a thrust bearing, the component failed
 CVT case cooling was implemented to prevent belt vulcanization, but failed in the 2017 Kansas competition due to the high temperatures coming from the engine resulting in increased power draw and battery failure.
 </p>
 <p>
-Despite the design changes introduced and hours of testing, unpredicted failures resulted.
+Despite the design changes introduced and hours of testing, unpredicted failures resulted that were outside the scope of our testing.
 </p>
